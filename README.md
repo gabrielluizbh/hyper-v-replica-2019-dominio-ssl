@@ -1,4 +1,4 @@
-# hyper-v-replica-2019-dominio-ssl-
+# hyper-v-replica-2019-dominio-ssl
 Hyper-V Réplica em Domínio com SSL
 
 Todos os scripts para implantção do Hyper-V Réplica no Windows Server 2019 em domínio com SSL.
